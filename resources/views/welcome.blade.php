@@ -139,7 +139,7 @@
                                     @if ($row->status == 'selesai')
 
                                     <span class="badge bg-success" style="color: white;"><i class="fas fa-box-open"></i>
-                                        SELESAIp</span>
+                                        SELESAI</span>
                                     @endif
                                 </td>
                             </tr>
